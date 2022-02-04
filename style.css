@@ -4,6 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
+  z-index: 999;
 }
 
 header {
@@ -42,7 +43,7 @@ section {
   align-items: center;
   width: 100%;
   min-height: 100vh;
-  background-image: url(/images/hero-bg.png);
+  background-image: url(https://raw.githubusercontent.com/ahmedhmmad/portfolio/main/images/hero-bg.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -121,7 +122,7 @@ section {
   /* align-items: center; */
 }
 .about {
-  background-image: url(/images/about-bg.png);
+  background-image: url(https://raw.githubusercontent.com/ahmedhmmad/portfolio/main/images/about-bg.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -188,7 +189,7 @@ section {
   object-fit: cover;
 }
 .skills {
-  background-image: url(/images/skills-bg.png);
+  background-image: url(https://raw.githubusercontent.com/ahmedhmmad/portfolio/main/images/skills-bg.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -216,7 +217,7 @@ section {
   margin-bottom: 10px;
 }
 .projects {
-  background-image: url(/images/about-bg.png);
+  background-image: url(https://raw.githubusercontent.com/ahmedhmmad/portfolio/main/images/about-bg.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
